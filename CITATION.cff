@@ -1,0 +1,11 @@
+cff-version: 1.0.0
+message: "If you use the Coding and Thematic Analysis tool, please cite it as shown below."
+title: "Coding and Thematic Analysis"
+version: 1.0.0            
+date-released: 2025-07-06  
+doi: "https://doi.org/10.5281/zenodo.15832611"                    
+url: "https://github.com/MattArtzAnthro/Coding_and_Thematic_Analysis"
+authors:
+  - family-names: "Artz"
+    given-names: "Matt"
+    orcid: "https://orcid.org/0000-0002-3822-1429"
