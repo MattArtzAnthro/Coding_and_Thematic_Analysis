@@ -1,3 +1,5 @@
+> **This repository is archived.** It preserves an early standalone version of this notebook (2025). The current, maintained version lives in the consolidated **[AI Anthropology Toolkit](https://github.com/MattArtzAnthro/AI-Anthropology-Toolkit)** repository alongside the full notebook catalog, Claude Code plugin, and MCP server. Please use and cite the toolkit: https://doi.org/10.5281/zenodo.16728812
+
 # Coding and Thematic Analysis
 
 Created by [Matt Artz](https://www.mattartz.me/) — Advancing AI Anthropology through computational approaches to qualitative research.
